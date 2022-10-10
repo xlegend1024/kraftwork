@@ -2,7 +2,7 @@
 
 ## Exploratory Data Analysis
 
-Details [Notebook](./assignment_5_1_starter/CouponAcceptanceAnalysis.ipynb)
+Details [Notebook](./CouponAcceptanceAnalysis.ipynb)
 
 ## 1. EDA Summary
 
